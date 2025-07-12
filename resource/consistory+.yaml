@@ -1,0 +1,1871 @@
+animals:
+- concept_token: phoenix
+  settings:
+  - rising from a fiery ashes
+  - soaring through a glowing sky
+  - perching on a mountain peak
+  - singing a haunting melody
+  - igniting flames with its wings
+  style: A fiery and majestic illustration of
+  subject: A phoenix with bright orange feathers
+- concept_token: zebra
+  settings:
+  - grazing alongside a river
+  - running in a herd across the plains
+  - resting under the shade of an acacia tree
+  - crossing a dusty path in the wild
+  - protecting its young in the savannah
+  style: A vibrant and striking portrait of
+  subject: A zebra with black and white stripes
+- concept_token: cheetah
+  settings:
+  - sprinting across the savannah
+  - stalking a gazelle in the grass
+  - relaxing in the shade under a tree
+  - marking territory with its scent
+  - napping after a successful hunt
+  style: A sleek and fast depiction of
+  subject: A cheetah with sharp eyes
+- concept_token: walrus
+  settings:
+  - lounging on an ice floe
+  - diving for clams in the sea
+  - bellowing from the shore
+  - resting near a snowy coastline
+  - swimming gracefully in the ocean
+  style: A massive and majestic depiction of
+  subject: A walrus with large tusks
+- concept_token: zebra
+  settings:
+  - grazing under the sun in the savannah
+  - running with a herd through the grasslands
+  - standing near a watering hole
+  - crossing a river in the wild
+  - trotting beside a wildebeest
+  style: A bold and striking illustration of
+  subject: A zebra with black and white stripes
+- concept_token: cheetah
+  settings:
+  - sprinting at top speed in the savannah
+  - resting in the shade of a tree
+  - hunting a gazelle in tall grass
+  - stretching before a sprint
+  - watching the horizon from a hill
+  style: A sleek and fast portrayal of
+  subject: A cheetah with spotted fur
+- concept_token: gorilla
+  settings:
+  - sitting in a jungle clearing
+  - playing with a baby gorilla
+  - searching for fruit in the trees
+  - relaxing by a waterfall
+  - beating its chest to assert dominance
+  style: A strong and wise illustration of
+  subject: A gorilla with dark fur
+- concept_token: dog
+  settings:
+  - chasing a frisbee
+  - dressed in a raincoat
+  - in a city alley
+  - jumping over a puddle
+  - at a veterinarian's office
+  - playing in a park
+  - sleeping on a couch
+  style: A hyper-realistic digital painting of
+  subject: A dog
+- concept_token: parrot
+  settings:
+  - in a tropical rainforest
+  - singing a song
+  - on the water
+  - sitting on a rock
+  - in a rain storm
+  - perched on a branch
+  - eating fruit
+  style: A watercolor illustration of
+  subject: A Scarlet parrot with vibrant red, yellow, and blue feathers
+- concept_token: dog
+  settings:
+  - wearing a bandana
+  - on a beach
+  - in a city alley
+  - in a snowy backyard
+  - at a veterinarian's office
+  - playing with a toy
+  - barking at a squirrel
+  style: A 3D animation of
+  subject: A black and white dog with yellow collar
+- concept_token: fox
+  settings:
+  - wearing a scarf
+  - dressed in a warm coat
+  - wearing a playful bow
+  - resting in a den
+  - near a campsite
+  - exploring a forest
+  - looking at the stars
+  style: A hyper-realistic digital painting of
+  subject: A red fox with a vibrant red coat, white belly, and bushy tail
+- concept_token: puppy
+  settings:
+  - in a pet store
+  - eating his food
+  - wearing a training harness
+  - dressed in a bandana
+  - at a lake
+  - playing with a ball
+  - sleeping in a bed
+  style: A 3D animation of
+  subject: A cute Labrador puppy with a glossy, chocolate brown coat
+- concept_token: dog
+  settings:
+  - wearing a bandana
+  - biting a bone
+  - wearing a birthday hat
+  - in a snowy backyard
+  - sitting by a fireplace
+  style: A 3D animation of
+  subject: A black and white dog with yellow collar
+- concept_token: kitten
+  settings:
+  - in a garden
+  - dressed in a cute sweater
+  - wearing a collar with a bell
+  - dressed in a superhero cape
+  - running through a field
+  - playing with a toy
+  - sitting in a basket
+  style: A watercolor illustration of
+  subject: A cute kitten with sleek, cream-colored fur and striking blue eyes
+- concept_token: puppy
+  settings:
+  - in a pet store
+  - in a grassy yard
+  - wearing a training harness
+  - dressed in a bandana
+  - wearing a life vest
+  style: ''
+  subject: A puppy
+- concept_token: puppy
+  settings:
+  - wearing a small sweater
+  - digging a hole
+  - wearing a training harness
+  - sticking head out of the car window
+  - swimming
+  - playing in the yard
+  - chasing a ball
+  style: A watercolor illustration of
+  subject: A puppy
+- concept_token: cat
+  settings:
+  - playing with a yarn ball
+  - sleeping in a box
+  - wearing a fluffy collar
+  - climbing a tree
+  - sitting on a shelf
+  style: A hyper-realistic digital painting of
+  subject: A cat
+- concept_token: cat
+  settings:
+  - wearing a bow tie
+  - dressed in a Halloween costume
+  - in a busy alley
+  - on a sled
+  - wearing a small bell
+  style: A hyper-realistic digital painting of
+  subject: A cat
+- concept_token: kitten
+  settings:
+  - wearing a tiny hat
+  - on a couch
+  - in a hospital
+  - playing with a feather toy
+  - on a rooftop
+  style: ''
+  subject: A cute kitten with sleek, cream-colored fur and striking blue eyes
+- concept_token: hedgehog
+  settings:
+  - in a cozy nest
+  - dressed in a miniature jacket
+  - wearing a small collar
+  - dressed in a festive outfit
+  - wearing a flower crown
+  style: A 3D animation of
+  subject: A happy hedgehog
+- concept_token: horse
+  settings:
+  - in a stable
+  - jumping over a hurdle
+  - in a snowy field
+  - in a mountain trail
+  - in a busy street
+  style: A hyper-realistic digital painting of
+  subject: A Palomino horse with a golden coat and a flowing, white mane and tail
+fairy_tales:
+- concept_token: fairy
+  settings:
+  - fluttering among glowing fireflies
+  - sprinkling pixie dust in the air
+  - hiding inside a blooming flower
+  - weaving spells under an ancient tree
+  - guiding travelers with a magical lantern
+  style: A magical drawing of
+  subject: A delicate fairy with sparkling wings
+- concept_token: princess
+  settings:
+  - walking in a garden of enchanted roses
+  - gazing at the stars from a castle balcony
+  - singing to woodland animals in a forest
+  - wearing a shimmering gown at a royal ball
+  - seeking wisdom from an old magical mirror
+  style: A dreamy illustration of
+  subject: A beautiful princess with a kind smile
+- concept_token: troll
+  settings:
+  - lurking beneath an old stone bridge
+  - guarding a cave filled with treasures
+  - chasing intruders through dark woods
+  - sharpening a massive club near a fire
+  - watching over a mountain pass silently
+  style: A dark fantasy depiction of
+  subject: A menacing troll with rough skin
+- concept_token: witch
+  settings:
+  - stirring a bubbling potion in a cauldron
+  - flying on a broomstick under a full moon
+  - casting spells in a candlelit cabin
+  - gathering herbs in a misty forest
+  - reading incantations from an ancient book
+  style: A dark and enchanting artwork of
+  subject: A mysterious witch in flowing robes
+- concept_token: phoenix
+  settings:
+  - rising from ashes in a fiery burst
+  - soaring through the golden clouds of dawn
+  - perched atop a flaming tree
+  - lighting the dark forest with its glow
+  - circling a distant volcano in flight
+  style: A vibrant fantasy drawing of
+  subject: A majestic phoenix with flaming wings
+- concept_token: elf
+  settings:
+  - crafting a bow from enchanted wood
+  - guiding travelers through an ancient forest
+  - practicing archery under a silver moon
+  - guarding a hidden woodland village
+  - reading an ancient map by firelight
+  style: A detailed character design of
+  subject: A graceful elf with pointed ears
+- concept_token: snow queen
+  settings:
+  - commanding a storm in an icy palace
+  - creating snowflakes with a wave of her hand
+  - watching over a frozen kingdom
+  - walking through a glittering ice cave
+  - sitting on a throne of frosted crystals
+  style: A majestic winter-themed artwork of
+  subject: A regal snow queen with icy beauty
+- concept_token: goblin
+  settings:
+  - sneaking into a hidden treasure vault
+  - crafting traps in a dark cave
+  - trading stolen trinkets at a market
+  - hiding from sunlight under a tree
+  - scavenging through enchanted ruins
+  style: A mischievous fantasy depiction of
+  subject: A cunning goblin with sharp features
+- concept_token: magic book
+  settings:
+  - floating in midair, pages turning
+  - glowing faintly in a candlelit room
+  - locked with an ornate golden clasp
+  - whispering spells to its reader
+  - lying open on a wizard’s desk
+  style: A mystical object illustration of
+  subject: An ancient magic book filled with secrets
+- concept_token: unicorn
+  settings:
+  - galloping through a dense, enchanted forest
+  - drinking from a crystalline stream
+  - standing in a meadow of blooming flowers
+  - beneath a rainbow in a serene valley
+  - resting in the shadow of ancient ruins
+  - among the clouds at dawn
+  style: A magical artwork of
+  subject: A unicorn with a gleaming silver horn
+- concept_token: fairy
+  settings:
+  - hovering over a moonlit pond
+  - dancing on the petals of a giant flower
+  - hiding in the hollow of an ancient tree
+  - spreading fairy dust over a sleeping village
+  - sitting on a mushroom in a magical forest
+  - playing with fireflies at dusk
+  - weaving through a field of wildflowers
+  style: A whimsical painting of
+  subject: A delicate fairy with translucent wings
+- concept_token: wizard
+  settings:
+  - in a tower filled with ancient tomes and artifacts
+  - casting a spell by the light of a full moon
+  - standing before a magical portal in the forest
+  - summoning a storm over a mountain peak
+  - writing runes in a dusty spellbook
+  - mixing potions in a dimly lit chamber
+  - consulting a crystal ball
+  style: A mystical illustration of
+  subject: A wise wizard with a long, flowing beard
+- concept_token: griffin
+  settings:
+  - soaring over a sprawling desert
+  - perched on a high cliff watching the horizon
+  - standing guard over a hidden treasure
+  - flying above a lush green valley
+  - resting on a rocky outcrop at sunset
+  - gliding through the clouds in a clear sky
+  - hunting in a dense forest
+  style: A majestic painting of
+  subject: A majestic griffin with golden feathers
+- concept_token: centaur
+  settings:
+  - galloping through a grassy plain at dawn
+  - patrolling the edge of a dense forest
+  - leading a group of warriors through a mountain pass
+  - beside a river under a twilight sky
+  - practicing archery in a secluded glade
+  - at the foot of a towering cliff
+  - under a sky filled with storm clouds
+  style: An adventurous illustration of
+  subject: A powerful centaur with a bow
+- concept_token: nymph
+  settings:
+  - dancing on a moonlit pond
+  - singing beside a sparkling waterfall
+  - playing with fish in a crystal-clear stream
+  - resting among blooming lilies
+  - under a weeping willow at dawn
+  - in a serene glade surrounded by flowers
+  - floating in a tranquil lake
+  style: A serene painting of
+  subject: A delicate water nymph with flowing hair
+- concept_token: troll
+  settings:
+  - under a stone bridge covered in ivy
+  - guarding a treasure chest in a dark cave
+  - helping travelers across a river
+  - sitting by a campfire in a foggy forest
+  - building a shelter from fallen logs
+  - fishing in a quiet stream at dusk
+  - carving runes into a rock
+  style: A heartwarming illustration of
+  subject: A friendly troll with moss-covered skin
+- concept_token: ogre
+  settings:
+  - living in a cozy cave in the forest
+  - fishing in a quiet lake under a cloudy sky
+  - helping lost travelers find their way
+  - gathering berries in a sunlit meadow
+  - sitting by a roaring campfire
+  - playing with forest animals in a glade
+  - building a shelter from fallen logs
+  style: A friendly depiction of
+  subject: A gentle ogre with a broad smile
+- concept_token: dwarf
+  settings:
+  - mining for gems in a glittering cave
+  - crafting weapons at a forge
+  - drinking ale in a bustling tavern
+  - exploring a network of underground tunnels
+  - climbing a steep mountain path
+  - gathering herbs in a forest clearing
+  - carving runes into stone tablets
+  style: A robust painting of
+  subject: A sturdy dwarf with a thick beard
+- concept_token: goblin
+  settings:
+  - sneaking through a dark market at midnight
+  - playing tricks on travelers in a village
+  - hiding in the shadows of a narrow alleyway
+  - stealing shiny objects from a merchant's stall
+  - scurrying through a dense forest at twilight
+  - climbing the walls of a deserted castle
+  - laughing by a flickering campfire
+  style: A quirky artwork of
+  subject: A mischievous goblin with sharp features
+- concept_token: witch
+  settings:
+  - brewing a potion in a bubbling cauldron
+  - casting a spell in a dark, enchanted forest
+  - flying on a broomstick under a full moon
+  - preparing charms in a cluttered cottage
+  - consulting an ancient grimoire by candlelight
+  - in a shadowy glade surrounded by glowing eyes
+  - watching over a bubbling potion in a misty cave
+  style: A mysterious painting of
+  subject: A cunning witch with a pointy hat
+- concept_token: satyr
+  settings:
+  - dancing in a moonlit glade
+  - playing tunes beside a babbling brook
+  - hiding behind a tree in a sun-dappled forest
+  - leading a merry chase through a meadow
+  - resting on a boulder in a twilight grove
+  - frolicking among wildflowers
+  - drinking from a natural spring
+  style: A playful painting of
+  subject: A mischievous satyr with a reed pipe
+- concept_token: dryad
+  settings:
+  - resting against an ancient oak tree
+  - walking through a sunlit grove
+  - dancing with the wind in a forest clearing
+  - watching over a grove of saplings
+  - playing with woodland creatures in the morning mist
+  - singing to the birds in the early dawn light
+  - weaving flowers into her hair
+  style: A naturalistic painting of
+  subject: A serene dryad with leafy hair
+- concept_token: princess
+  settings:
+  - walking in a garden of enchanted roses
+  - gazing at the stars from a castle balcony
+  - singing to woodland animals in a forest
+  - wearing a shimmering gown at a royal ball
+  - seeking wisdom from an old magical mirror
+  style: A dreamy illustration of
+  subject: A beautiful princess
+- concept_token: wizard
+  settings:
+  - casting spells in a mystical tower
+  - studying ancient tomes in a library
+  - summoning creatures from a cauldron
+  - battling a dragon in a dark forest
+  - creating potions under a full moon
+  style: A mystical painting of
+  subject: A wise wizard
+- concept_token: witch
+  settings:
+  - stirring a potion in a bubbling cauldron
+  - flying on a broom under a full moon
+  - reading from a spellbook in a dark hut
+  - casting a curse in a misty forest
+  - collecting herbs in a hidden glade
+  style: A dark and eerie drawing of
+  subject: A mysterious witch
+- concept_token: troll
+  settings:
+  - guarding a stone bridge in the mountains
+  - sitting by a campfire in the woods
+  - threatening travelers in a dark cave
+  - wandering through a foggy swamp
+  - grumbling in an underground lair
+  style: A rugged drawing of
+  subject: A grumpy troll
+- concept_token: fairy godmother
+  settings:
+  - waving a wand to transform pumpkins
+  - granting wishes in a sparkling forest
+  - offering advice to a princess
+  - preparing magical gifts in a cozy home
+  - visiting a poor family with a blessing
+  style: A heartwarming illustration of
+  subject: A kind fairy godmother
+- concept_token: ogre
+  settings:
+  - stomping through a village in a rage
+  - hiding in a dark cave
+  - eating a giant feast by a fire
+  - chasing heroes through the forest
+  - resting by a muddy river
+  style: A frightening drawing of
+  subject: A fearsome ogre
+- concept_token: gnome
+  settings:
+  - working in a hidden underground garden
+  - sitting by a cozy fireplace with a pipe
+  - traveling with a mushroom cart
+  - tending to the plants in a forest
+  - playing tricks in a quiet village
+  style: A charming sketch of
+  subject: A friendly gnome
+- concept_token: goblin
+  settings:
+  - sneaking through a dark alley
+  - working in a dank forge
+  - hoarding treasure in a hidden cave
+  - stealing from travelers in the night
+  - brewing potions in a dark hut
+  style: A sneaky illustration of
+  subject: A cunning goblin
+- concept_token: faun
+  settings:
+  - playing a flute by a bubbling stream
+  - dancing in a circle of mushrooms
+  - guiding travelers through a magical forest
+  - leading a procession of woodland creatures
+  - sitting by a fire telling stories
+  style: A peaceful sketch of
+  subject: A playful faun
+- concept_token: phoenix
+  settings:
+  - rising from the ashes in a burst of fire
+  - flying through a fiery sky
+  - resting on a burning tree
+  - appearing in a flash of flame
+  - spreading its wings over a burning city
+  style: A fiery illustration of
+  subject: A majestic phoenix
+- concept_token: unicorn
+  settings:
+  - galloping through a flower field
+  - standing by a sparkling waterfall
+  - racing across a rainbow bridge
+  - protecting a sacred grove
+  - spreading magic in the forest
+  style: A colorful illustration of
+  subject: A graceful unicorn
+- concept_token: witch
+  settings:
+  - flying on a broomstick under a full moon
+  - brewing a potion in a bubbling cauldron
+  - reading spells in an ancient book
+  - preparing a magical brew in a forest
+  - cursing a lost traveler in the woods
+  style: A dark drawing of
+  subject: A mysterious witch
+- concept_token: elf
+  settings:
+  - singing songs of old in a moonlit grove
+  - crafting bows and arrows in a woodland cabin
+  - gathering herbs in an enchanted forest
+  - fighting in a battle with a gleaming sword
+  - celebrating with fellow elves by a fire
+  style: A serene painting of
+  subject: A wise elf
+- concept_token: troll
+  settings:
+  - lurking under a bridge
+  - hiding in a cave at night
+  - eating mushrooms in a dark forest
+  - grumbling as it patrols the woods
+  - guarding a treasure chest
+  style: A grumpy drawing of
+  subject: A massive troll
+- concept_token: siren
+  settings:
+  - singing to passing sailors
+  - playing an enchanted harp on a rocky shore
+  - luring ships with a beautiful melody
+  - hiding in the depths of the sea
+  - sitting on a cliff watching the sunset
+  style: A haunting painting of
+  subject: A seductive siren
+- concept_token: pegasus
+  settings:
+  - soaring over a green valley
+  - flying through the clouds above a mountain range
+  - galloping through the sky with wings spread wide
+  - racing along the edge of the ocean
+  - resting on a soft cloud at dawn
+  style: A majestic painting of
+  subject: A graceful pegasus
+- concept_token: gnome
+  settings:
+  - tinkering in an underground workshop
+  - working in a lush garden
+  - guarding the entrance to a secret cave
+  - sitting on a mushroom with a pipe
+  - creating magical trinkets for travelers
+  style: A cozy illustration of
+  subject: A friendly gnome
+- concept_token: faun
+  settings:
+  - playing a flute by a gentle stream
+  - dancing among ancient trees
+  - gathering flowers for a wreath
+  - guiding lost travelers through the forest
+  - resting under a giant oak tree
+  style: A whimsical drawing of
+  subject: A playful faun
+fantasy:
+- concept_token: griffin
+  settings:
+  - soaring above a golden desert
+  - nesting on a mountain cliff
+  - hunting in a forest at dawn
+  - standing proudly in front of a castle
+  - flying through a stormy sky
+  style: A majestic and powerful illustration of
+  subject: A griffin with the body of a lion and the wings of an eagle
+- concept_token: centaur
+  settings:
+  - running through an open meadow
+  - playing a tune on a flute
+  - practicing swordsmanship in a field
+  - sitting by a campfire at night
+  - galloping through a forest trail
+  style: A heroic nature illustration of
+  subject: A centaur with the body of a horse and the torso of a warrior
+- concept_token: mermaid
+  settings:
+  - swimming in a coral reef
+  - basking on a sunlit rock
+  - combing her hair with a shell
+  - singing in an underwater cave
+  - playing with colorful fish
+  style: A dreamy underwater illustration of
+  subject: A beautiful mermaid with a shimmering tail
+- concept_token: wizard
+  settings:
+  - casting spells in a tower
+  - reading ancient books in a library
+  - brewing potions in a dark cave
+  - summoning creatures in a circle
+  - wandering through a mystical forest
+  style: A mystical and powerful illustration of
+  subject: A wise wizard with a long, flowing beard
+- concept_token: werewolf
+  settings:
+  - howling at the full moon
+  - prowling through a misty forest
+  - transforming in the light of the moon
+  - hunting in the dark woods
+  - running on all fours under a starry sky
+  style: A terrifying and wild illustration of
+  subject: A werewolf with glowing yellow eyes
+- concept_token: ogre
+  settings:
+  - stomping through a muddy swamp
+  - sitting by a campfire roasting food
+  - swinging a massive club in battle
+  - chasing intruders in the forest
+  - resting in a cave with treasure
+  style: A brutish and strong illustration of
+  subject: A large ogre with green skin and a rough demeanor
+- concept_token: siren
+  settings:
+  - singing on a rocky cliff
+  - luring sailors to their doom
+  - swimming in the deep ocean
+  - resting on a wave-kissed shore
+  - weaving spells with her voice
+  style: A haunting and alluring illustration of
+  subject: A siren with long flowing hair and a melodious voice
+- concept_token: elf queen
+  settings:
+  - sitting on a crystal throne
+  - overseeing the elven kingdom
+  - speaking with ancient spirits
+  - leading her people into battle
+  - walking through a mystical forest
+  style: A regal and elegant illustration of
+  subject: An elf queen with a jeweled crown
+- concept_token: hobbit
+  settings:
+  - lounging by a cozy fireplace
+  - planting flowers in a garden
+  - enjoying a feast at home
+  - walking through the rolling hills
+  - smoking a pipe under a tree
+  style: A peaceful and rustic illustration of
+  subject: A hobbit with large feet and a warm smile
+- concept_token: mermaid
+  settings:
+  - swimming in a coral reef
+  - basking on a sunlit rock
+  - combing her hair with a shell
+  - singing in an underwater cave
+  - playing with colorful fish
+  style: A dreamy underwater illustration of
+  subject: A beautiful mermaid with a shimmering tail
+- concept_token: goblin
+  settings:
+  - sneaking into a treasure cave
+  - trading trinkets at a market
+  - sharpening weapons in a lair
+  - arguing over a shiny object
+  - lurking in the shadows of ruins
+  style: A dark fantasy illustration of
+  subject: A mischievous goblin with sharp teeth
+- concept_token: sorceress
+  settings:
+  - conjuring a glowing orb
+  - surrounded by enchanted flames
+  - chanting in a stone circle
+  - reading from an ancient tome
+  - standing by a bubbling cauldron
+  style: A captivating fantasy portrait of
+  subject: A powerful sorceress in elegant robes
+- concept_token: dwarf
+  settings:
+  - forging weapons in a fiery forge
+  - mining deep underground
+  - standing guard by a stone door
+  - drinking from a golden goblet
+  - carrying a heavy battleaxe
+  style: A gritty fantasy artwork of
+  subject: A stout dwarf with a long beard
+- concept_token: troll
+  settings:
+  - sitting on a mossy boulder
+  - guarding a bridge in the woods
+  - clutching a massive club
+  - chasing intruders from a cave
+  - growling in the moonlight
+  style: A dark and menacing depiction of
+  subject: A hulking troll with a fearsome appearance
+- concept_token: fairy
+  settings:
+  - wearing gossamer wings
+  - frolicking in the air
+  - wearing a crown of twigs
+  - near a shimmering brook
+  - dancing in moonlight
+  - in an enchanted forest
+  - sitting on a mushroom
+  style: A watercolor illustration of
+  subject: A fairy
+- concept_token: elf
+  settings:
+  - in an elven city of trees
+  - cleaning a sword
+  - reading an ancient text
+  - flying in the air
+  - in a library of scrolls
+  - meditating by a waterfall
+  - at a council meeting
+  style: A photo of
+  subject: An elf with long, silver hair, eyes like polished amethyst, and ears that
+    curve elegantly upwards
+- concept_token: unicorn
+  settings:
+  - prancing near the water
+  - beside a crystal lake
+  - wearing a silver bridle
+  - under a canopy of stars
+  - wearing a harness of sunbeams
+  - in a magical forest
+  style: A black and white sketch of
+  subject: A unicorn
+- concept_token: goblin
+  settings:
+  - wearing a cloak
+  - haggling over goods
+  - wearing a belt of tools
+  - dressed in a guard's uniform
+  - in a dungeon's depths
+  - scavenging for treasures
+  style: A 3D animation of
+  subject: A goblin with patchy, leathery skin and oversized ears, carrying a tiny,
+    glowing lantern
+- concept_token: fairy
+  settings:
+  - in a mystical glen
+  - atop a dew-covered flower
+  - inside a hollowed-out tree
+  - collecting morning dew
+  - under a full moon
+  - dancing in the rain
+  style: A hyper-realistic digital painting of
+  subject: A fairy
+- concept_token: leprechaun
+  settings:
+  - counting gold coins
+  - at the end of a rainbow
+  - setting a trap
+  - in an underground workshop
+  - performing a jig
+  - hiding in the shadows
+  style: A hyper-realistic digital painting of
+  subject: A leprechaun with a mischievous grin, emerald-green coat, and a hat adorned
+    with a four-leaf clover
+- concept_token: fairy
+  settings:
+  - dressed in a cloak of spider silk
+  - tending to forest creatures
+  - in a mystical glen
+  - frolicking in the air
+  - wearing a garland of fireflies
+  - sleeping in a flower
+  style: A hyper-realistic digital painting of
+  subject: A fairy
+- concept_token: leprechaun
+  settings:
+  - in a clover field
+  - mending a shoe
+  - inside a hollow oak tree
+  - sharing a pint
+  - at a village fair
+  - hiding a pot of gold
+  style: ''
+  subject: A leprechaun
+foods:
+- concept_token: loaf of bread
+  settings:
+  - cooling on a rustic wooden board
+  - sliced and served with butter
+  - displayed at a bustling farmer's market
+  - resting in a woven basket
+  - paired with a bowl of hearty soup
+  style: A warm countryside painting of
+  subject: A crusty loaf of freshly baked bread
+- concept_token: spaghetti
+  settings:
+  - topped with a rich tomato sauce
+  - sprinkled with grated Parmesan cheese
+  - served with garlic bread on the side
+  - twirled on a fork over a plate
+  - accompanied by a glass of red wine
+  style: An Italian-inspired artwork of
+  subject: A steaming plate of spaghetti with marinara sauce
+- concept_token: croissant
+  settings:
+  - displayed in a Parisian bakery
+  - paired with a cup of espresso
+  - placed on a white porcelain plate
+  - in a basket lined with cloth
+  - enjoyed at a sunny café table
+  style: A soft and elegant painting of
+  subject: A buttery, flaky croissant
+- concept_token: salad
+  settings:
+  - tossed with fresh greens and vegetables
+  - topped with a tangy vinaigrette
+  - served in a wooden bowl
+  - garnished with sliced avocado
+  - paired with a crusty bread roll
+  style: A fresh and vibrant painting of
+  subject: A garden-fresh salad full of color
+- concept_token: macaron
+  settings:
+  - arranged delicately on a porcelain plate
+  - displayed in a Parisian patisserie
+  - served with a cup of tea
+  - stacked in a rainbow of colors
+  - wrapped in a gift box with ribbons
+  style: A refined and pastel-hued painting of
+  subject: A colorful array of delicate macarons
+- concept_token: hot chocolate
+  settings:
+  - topped with whipped cream and cocoa
+  - served in a cozy mug by the fire
+  - accompanied by marshmallows on the side
+  - in a festive holiday-themed cup
+  - placed on a wooden tray with cookies
+  style: A warm and comforting painting of
+  subject: A steaming cup of hot chocolate
+- concept_token: fried rice
+  settings:
+  - served in a traditional wok
+  - topped with green onions and egg
+  - accompanied by soy sauce on the side
+  - enjoyed at a bustling street market
+  - paired with a cup of jasmine tea
+  style: A vibrant Asian-inspired painting of
+  subject: A plate of colorful fried rice
+- concept_token: cupcake
+  settings:
+  - topped with swirls of buttercream
+  - sprinkled with edible glitter
+  - placed on a decorative stand
+  - served at a birthday celebration
+  - paired with a glass of milk
+  style: A fun and festive painting of
+  subject: A perfectly decorated cupcake
+- concept_token: bagel
+  settings:
+  - topped with cream cheese and lox
+  - displayed in a cozy café
+  - served with a side of fresh fruit
+  - toasted to a golden brown
+  - wrapped for a quick breakfast
+  style: A simple and inviting painting of
+  subject: A classic bagel with delicious toppings
+- concept_token: chocolate cake
+  settings:
+  - displayed in a high-end bakery window
+  - served at a birthday celebration
+  - enjoyed with a glass of red wine
+  - highlighted in a dessert cookbook
+  - paired with a scoop of ice cream
+  - presented at a wedding reception
+  - enjoyed during a romantic dinner
+  style: A digital illustration of
+  subject: A decadent chocolate cake with layers of rich ganache and fresh strawberries
+- concept_token: bowl of ramen
+  settings:
+  - served in a bustling ramen shop
+  - highlighted in a food blog
+  - enjoyed on a chilly evening
+  - paired with a side of gyoza
+  - featured in a travel documentary
+  - prepared by a master chef
+  - showcased at a food festival
+  style: A ukiyo-e style woodblock print of
+  subject: A steaming bowl of ramen with tender pork slices, soft-boiled egg, and
+    vibrant vegetables
+- concept_token: plate of pasta
+  settings:
+  - served at an Italian trattoria
+  - enjoyed during a family dinner
+  - highlighted in a cooking show
+  - paired with a glass of red wine
+  - featured in a gourmet magazine
+  - prepared by a nonna
+  - showcased at a food festival
+  style: A realistic still life painting of
+  subject: A plate of pasta with homemade marinara sauce, fresh basil, and parmesan
+    cheese
+- concept_token: ice cream sundae
+  settings:
+  - served at a vintage ice cream parlor
+  - enjoyed during a summer fair
+  - highlighted in a dessert cookbook
+  - paired with a brownie
+  - featured in a children's party
+  - prepared for a special treat
+  - displayed in a colorful bowl
+  style: A whimsical illustration of
+  subject: An indulgent ice cream sundae with chocolate syrup, whipped cream, and
+    a cherry on top
+- concept_token: Caesar salad
+  settings:
+  - served at an upscale bistro
+  - enjoyed during a light lunch
+  - highlighted in a health food magazine
+  - paired with grilled chicken
+  - featured in a cooking class
+  - prepared for a summer picnic
+  style: A botanical illustration of
+  subject: A classic Caesar salad with crisp romaine, parmesan, and creamy dressing
+- concept_token: bowl of gazpacho
+  settings:
+  - served at a Spanish tapas bar
+  - enjoyed during a summer evening
+  - highlighted in a culinary travel show
+  - paired with crusty bread
+  - featured in a Mediterranean cookbook
+  - prepared by a home chef
+  - showcased at a garden party
+  style: A cubist painting of
+  subject: A refreshing bowl of gazpacho with fresh tomatoes, cucumbers, and a drizzle
+    of olive oil
+- concept_token: cheesecake
+  settings:
+  - served at a New York deli
+  - enjoyed during a special celebration
+  - highlighted in a dessert cookbook
+  - paired with a glass of dessert wine
+  - featured in a pastry shop
+  - prepared for a holiday gathering
+  style: A detailed ink drawing of
+  subject: A creamy cheesecake with a graham cracker crust and a raspberry swirl
+- concept_token: bowl of chili
+  settings:
+  - served at a chili cook-off
+  - enjoyed during a cold winter day
+  - highlighted in a comfort food magazine
+  - paired with cornbread
+  - featured in a family recipe book
+  - prepared for a game day party
+  - showcased at a food truck
+  style: A Western-style painting of
+  subject: A hearty bowl of chili with ground beef, beans, and a spicy tomato sauce
+- concept_token: lobster roll
+  settings:
+  - served at a seaside shack
+  - enjoyed during a summer vacation
+  - highlighted in a seafood magazine
+  - paired with a crisp white wine
+  - featured in a coastal restaurant
+  - prepared for a beach picnic
+  style: A nautical-themed illustration of
+  subject: A succulent lobster roll with tender lobster meat and a buttery bun
+- concept_token: bowl of poke
+  settings:
+  - served at a Hawaiian luau
+  - enjoyed during a beach day
+  - highlighted in a health food magazine
+  - paired with a tropical smoothie
+  - featured in a poke bar
+  - prepared for a summer party
+  - showcased at a food festival
+  style: A vibrant watercolor of
+  subject: A fresh bowl of poke with marinated fish, avocado, and rice
+- concept_token: bowl of pad thai
+  settings:
+  - served at a Thai street food stall
+  - enjoyed during a warm evening
+  - highlighted in a travel documentary
+  - paired with a cold beer
+  - featured in an Asian cookbook
+  - prepared by a local chef
+  - showcased at a food market
+  style: A traditional Thai mural of
+  subject: A flavorful bowl of pad thai with shrimp, peanuts, and fresh lime
+humans:
+- concept_token: scientist
+  settings:
+  - conducting an experiment in a lab
+  - analyzing data on a computer
+  - presenting research at a conference
+  - observing through a microscope
+  - writing a research paper
+  style: A focused scene of
+  subject: A scientist with a lab coat
+- concept_token: lawyer
+  settings:
+  - defending a client in court
+  - negotiating a contract in an office
+  - reviewing legal documents
+  - advising clients on legal matters
+  - preparing for a trial
+  style: A professional scene of
+  subject: A lawyer in a suit
+- concept_token: waiter
+  settings:
+  - serving food to customers in a restaurant
+  - taking an order at a table
+  - cleaning a table after customers leave
+  - delivering drinks to a bar
+  - setting a table for dinner
+  style: A welcoming scene of
+  subject: A waiter in a uniform
+- concept_token: tailor
+  settings:
+  - measuring a client for a suit
+  - stitching a dress by hand
+  - fitting a shirt for alterations
+  - ironing clothes in a workshop
+  - arranging fabrics on a cutting table
+  style: A precise scene of
+  subject: A tailor with a sewing machine
+- concept_token: scientist
+  settings:
+  - conducting research in a lab
+  - analyzing samples under a microscope
+  - experimenting with chemicals
+  - presenting findings at a conference
+  - writing a research paper
+  style: A focused scene of
+  subject: A scientist with a lab coat
+- concept_token: barber
+  settings:
+  - cutting hair in a barbershop
+  - trimming a beard with scissors
+  - styling a client's hair
+  - shaving a client with a razor
+  - cleaning up the work area
+  style: A stylish scene of
+  subject: A barber with clippers
+- concept_token: dancer
+  settings:
+  - performing ballet on stage
+  - practicing in a dance studio
+  - rehearsing for a performance
+  - dancing at a wedding
+  - choreographing a new routine
+  style: A graceful scene of
+  subject: A dancer in a tutu
+- concept_token: dentist
+  settings:
+  - cleaning teeth in a dental office
+  - performing a root canal procedure
+  - explaining oral hygiene to a patient
+  - taking X-rays of teeth
+  - filling a cavity during an appointment
+  style: A medical scene of
+  subject: A dentist in scrubs
+- concept_token: lawyer
+  settings:
+  - cross-examining a witness in court
+  - preparing a legal case with colleagues
+  - advising clients on legal matters
+  - filing legal documents in an office
+  - negotiating a settlement agreement
+  style: A professional scene of
+  subject: A lawyer in a suit
+- concept_token: optometrist
+  settings:
+  - conducting an eye exam with a patient
+  - fitting eyeglasses for a client
+  - examining eye charts in a clinic
+  - discussing eye health with a patient
+  - testing vision with an automated device
+  style: A precise scene of
+  subject: An optometrist with a phoropter
+- concept_token: gardener
+  settings:
+  - planting flowers in a garden
+  - trimming hedges in a park
+  - watering plants in a greenhouse
+  - harvesting vegetables in a field
+  - arranging flowers in a basket
+  style: A vibrant scene of
+  subject: A gardener with gloves and a straw hat
+- concept_token: gentleman
+  settings:
+  - reading a newspaper
+  - at a vintage car show
+  - in a vineyard
+  - swinging a golf club
+  - listening to music
+  - dining at a fancy restaurant
+  style: A 3D animation of
+  subject: An elderly gentleman with distinguished gray hair, a neatly trimmed mustache,
+    and gentle blue eyes
+- concept_token: woman
+  settings:
+  - wearing a gardening apron
+  - at a seaside pier
+  - in a rose garden
+  - in a cozy library
+  - on a city street in the 1950s
+  style: A pixar style illustration of
+  subject: A woman with a slender figure, straight red hair, and freckles across the
+    nose
+- concept_token: woman
+  settings:
+  - baking cookies
+  - at a seaside pier
+  - in a rose garden
+  - dressed in a vintage 1950s outfit
+  - wearing a knitted shawl
+  - painting a landscape
+  - walking a dog
+  style: A hyper-realistic digital painting of
+  subject: A woman with a slender figure, straight red hair, and freckles across the
+    nose
+- concept_token: gentleman
+  settings:
+  - in a classic study
+  - at a vintage car show
+  - wearing a vineyard owner's attire
+  - on a golf course
+  - on a mountain
+  - walking with a cane
+  - discussing art at a gallery
+  style: A pixel art depiction of
+  subject: An elderly gentleman with distinguished gray hair, a neatly trimmed mustache,
+    and gentle blue eyes
+- concept_token: girl
+  settings:
+  - on a playground
+  - in a flower garden
+  - building a sandcastle
+  - reading a fairy tale book
+  - in a city park with autumn leaves
+  - drawing in a sketchbook
+  - taking a walk with friends
+  style: A hyper-realistic digital painting of
+  subject: a 16 years old girl with wavy chestnut hair, a slender frame, and soft
+    brown eyes
+- concept_token: boy
+  settings:
+  - green knitted hat
+  - at an urban skatepark
+  - in a dense forest
+  - dressed as an astronaut
+  - digging with a trowel
+  - climbing a tree
+  - attending a science fair
+  style: A hyper-realistic digital painting of
+  subject: A teenage boy with short, spiky black hair, a slight build, and dark brown
+    eyes
+- concept_token: child
+  settings:
+  - in a toy store
+  - exploring an exhibit
+  - in a backyard
+  - dressed in a prince costume
+  - in a treehouse
+  - playing with a puppy
+  - enjoying a carousel ride
+  style: A watercolor illustration of
+  subject: A male child with a round face, short ginger hair, and curious, wide eyes
+- concept_token: woman
+  settings:
+  - in a vintage kitchen
+  - dressed in a formal evening gown
+  - in a rose garden
+  - reading a novel
+  - shopping at a market
+  - visiting a museum
+  - having a picnic in a park
+  style: A photo of
+  subject: A woman with a slender figure, straight red hair, and freckles across the
+    nose
+- concept_token: woman
+  settings:
+  - baking a cake
+  - dressed in a formal evening gown
+  - wearing a chef's hat and apron
+  - holding a box
+  - in a snowy forest
+  - attending a holiday party
+  - singing at a concert
+  style: A watercolor illustration of
+  subject: A woman with a slender figure, straight red hair, and freckles across the
+    nose
+- concept_token: girl
+  settings:
+  - wearing a ballet dress
+  - in a flower garden
+  - building a sandcastle
+  - in a medieval castle courtyard
+  - wearing a birthday party hat
+  - dancing in a rainstorm
+  - writing in a journal
+  style: A pixel art depiction of
+  subject: a 16 years old girl with wavy chestnut hair, a slender frame, and soft
+    brown eyes
+inanimate:
+- concept_token: cloud
+  settings:
+  - floating on a postcard
+  - stuck on a book cover
+  - decorating a nursery wall
+  - on a birthday card
+  - placed on a phone case
+  style: A photo of
+  subject: A sticker of a fluffy white cloud
+- concept_token: starfish
+  settings:
+  - on a beach-themed photo album
+  - stuck on a notebook cover
+  - placed on a bathroom mirror
+  - decorating a summer tote bag
+  - on a seaside souvenir
+  style: A photo of
+  subject: A sticker of a detailed starfish
+- concept_token: butterfly
+  settings:
+  - placed on a floral scarf
+  - decorating a greeting card
+  - stuck on a wind chime
+  - on a flowerpot in the garden
+  - pinned on a corkboard
+  style: A photo of
+  subject: A sticker of a colorful butterfly
+- concept_token: rainbow
+  settings:
+  - decorating a birthday banner
+  - stuck on a car window
+  - placed on a child's lunchbox
+  - on a keychain for good luck
+  - on a window decal
+  style: A photo of
+  subject: A sticker of a vibrant rainbow
+- concept_token: umbrella
+  settings:
+  - decorating a rainy day card
+  - stuck on a luggage tag
+  - placed on a beach towel
+  - on a coffee cup sleeve
+  - as a window decal
+  style: A photo of
+  subject: A sticker of a colorful umbrella
+- concept_token: apple
+  settings:
+  - decorating a school notebook
+  - stuck on a kitchen fridge
+  - on a picnic basket lid
+  - on a lunchbox
+  - placed in a fruit bowl
+  style: A photo of
+  subject: A sticker of a shiny red apple
+- concept_token: bird
+  settings:
+  - perched on a window sill
+  - stuck on a travel mug
+  - decorating a greeting card
+  - placed on a beach towel
+  - on a decorative pillow
+  style: A photo of
+  subject: A sticker of a colorful bird
+- concept_token: pin
+  settings:
+  - decorating a corkboard
+  - on a jean jacket
+  - attached to a notebook cover
+  - on a travel map
+  - stuck on a greeting card
+  style: A photo of
+  subject: A sticker of a colorful pin
+- concept_token: hamburger
+  settings:
+  - placed on a restaurant menu
+  - decorating a food-themed poster
+  - stuck on a lunchbox
+  - on a picnic blanket
+  - in a fast food tray
+  style: A photo of
+  subject: A sticker of a delicious hamburger
+- concept_token: sun
+  settings:
+  - on a tropical vacation suitcase
+  - stuck on a lemonade stand
+  - decorating a summer beach ball
+  - on a travel-themed scrapbook
+  - placed on a sunlit balcony door
+  style: A photo of
+  subject: A sticker of a smiling yellow sun
+- concept_token: balloon
+  settings:
+  - on a birthday party invitation
+  - floating on a festival flyer
+  - stuck to a carnival ticket
+  - decorating a child's bedroom wall
+  - on a helium tank label
+  style: A photo of
+  subject: A sticker of a colorful balloon
+- concept_token: guitar
+  settings:
+  - on a musician's travel case
+  - stuck on a band poster
+  - decorating a music notebook
+  - placed on a record store bag
+  - on a concert ticket stub
+  style: A photo of
+  subject: A sticker of an acoustic guitar
+- concept_token: cupcake
+  settings:
+  - on a bakery box
+  - decorating a birthday invitation
+  - stuck on a sweet recipe book
+  - placed on a tea party favor
+  - on a dessert menu
+  style: A photo of
+  subject: A sticker of a frosted cupcake
+- concept_token: dog
+  settings:
+  - on a student's laptop
+  - amidst an action-packed skate session
+  - adding character to urban signage
+  - at a live music gig
+  - at an international airport
+  - in a bustling city center
+  - on a colorful street mural
+  style: A photo of
+  subject: A sticker of a cute corgi dog
+- concept_token: sofa
+  settings:
+  - occupied by a sleeping cat
+  - in a Victorian-style parlor
+  - in an outdoor patio
+  - in a bustling coffee shop
+  - with a fleece blanket
+  - in a modern living room
+  - beside a cozy fireplace
+  style: A hyper-realistic digital painting of
+  subject: A plush velvet sofa in a rich emerald green color with elegant, curved
+    armrests
+- concept_token: dog
+  settings:
+  - on a student's laptop
+  - on a skateboard in a park
+  - adding character to urban signage
+  - decorated with band logos
+  - on a traveler's suitcase
+  - in a crowded subway
+  - on a street artist's sketchbook
+  style: A hyper-realistic digital painting of
+  subject: A sticker of a cute corgi dog
+- concept_token: lamp
+  settings:
+  - with a classic green shade
+  - lighting up a late-night study session
+  - casting a warm glow in an elegant setting
+  - on a table
+  - on the outside
+  - in a minimalist workspace
+  - by a cozy reading nook
+  style: A 3D animation of
+  subject: A modern desk lamp with a metallic finish and an adjustable, minimalist
+    design
+- concept_token: mug
+  settings:
+  - being filled with steaming coffee
+  - sitting beside a laptop and notebooks
+  - on an office desk filled with papers
+  - on a potter's wheel being shaped
+  - on a balcony overlooking a cityscape
+  - in a cozy kitchen
+  - by a morning newspaper
+  style: A hyper-realistic digital painting of
+  subject: A red coffee mug shaped like a ball
+nature:
+- concept_token: sunflower
+  settings:
+  - stretching toward the midday sun
+  - in a farmer's field
+  - blooming in a garden patch
+  - surrounded by bees on a hot day
+  - against a bright blue sky
+  style: A vibrant oil painting of
+  subject: A cheerful sunflower
+- concept_token: deer
+  settings:
+  - grazing in a serene forest glade
+  - stepping lightly through the underbrush
+  - silhouetted against a rising moon
+  - resting in a grassy meadow
+  - bounding through a woodland clearing
+  style: A detailed pencil drawing of
+  subject: A graceful deer
+- concept_token: rainbow
+  settings:
+  - arching over a misty waterfall
+  - after a spring rainstorm
+  - across a golden wheat field
+  - over a peaceful valley
+  - against a backdrop of dark clouds
+  style: A vivid acrylic painting of
+  subject: A vibrant rainbow
+- concept_token: pine
+  settings:
+  - swaying in the mountain breeze
+  - standing tall in a snow-covered forest
+  - casting long shadows at dusk
+  - surrounded by mist in a quiet glade
+  - framing a scenic lakeside view
+  style: A serene pencil sketch of
+  subject: A tall pine tree
+- concept_token: butterfly
+  settings:
+  - flitting among garden flowers
+  - resting on a green leaf
+  - against a clear blue sky
+  - hovering over a brook
+  - dancing in tall grass
+  style: A watercolor illustration of
+  subject: A vibrant butterfly with iridescent wings
+- concept_token: oak
+  settings:
+  - tall in an autumn forest
+  - casting shadows at sunset
+  - blanketed in fresh snow
+  - in a field of wildflowers
+  - against rolling hills
+  style: A realist landscape painting of
+  subject: A mighty oak tree with spreading branches
+- concept_token: eagle
+  settings:
+  - soaring high above a cliff
+  - perched on a mountain peak
+  - gliding over a wide valley
+  - flying against a clear blue sky
+  - swooping over a forest
+  style: A majestic watercolor of
+  subject: A powerful eagle
+- concept_token: lily
+  settings:
+  - blooming in a tranquil pond
+  - placed in a ceramic vase
+  - floating on a still lake
+  - beside a peaceful riverbank
+  - surrounded by green leaves
+  style: A soft pastel illustration of
+  subject: A fragrant lily flower
+- concept_token: mushroom
+  settings:
+  - growing on the forest floor
+  - nestled among fallen leaves
+  - after a light spring rain
+  - near a mossy tree trunk
+  - surrounded by ferns and flowers
+  style: A delicate pen-and-ink drawing of
+  subject: A forest mushroom
+- concept_token: butterfly
+  settings:
+  - resting on a vibrant daisy
+  - fluttering around a lavender bush
+  - on the edge of a garden gate
+  - perched on a sunflower
+  - dancing in the spring breeze
+  style: A soft watercolor of
+  subject: A delicate butterfly
+- concept_token: fern
+  settings:
+  - unfurling in a forest glade
+  - growing at the base of a tree
+  - flourishing along a shaded trail
+  - carpeting a rocky cliffside
+  - swaying in the summer breeze
+  style: A naturalistic pencil drawing of
+  subject: A lush fern
+- concept_token: owl
+  settings:
+  - perched on a tree branch at dusk
+  - flying through a moonlit forest
+  - watching from a hollowed-out tree
+  - gliding over a misty field
+  - hooting in the silent night
+  style: A realistic watercolor of
+  subject: A wise owl in flight
+- concept_token: lily pad
+  settings:
+  - floating in a serene pond
+  - under a blooming lotus flower
+  - surrounded by dragonflies
+  - near the edge of a brook
+  - reflecting the moonlight
+  style: A tranquil painting of
+  subject: A green lily pad
+- concept_token: glacier
+  settings:
+  - towering above icy waters
+  - shimmering in the polar sun
+  - calving into the ocean
+  - surrounded by snowy peaks
+  - glowing in the arctic twilight
+  style: A dramatic oil painting of
+  subject: A massive glacier
+- concept_token: daisy
+  settings:
+  - blooming in a summer meadow
+  - in a vase on a windowsill
+  - swaying in a gentle breeze
+  - nestled in a grassy field
+  - with dew drops at dawn
+  style: A cheerful watercolor of
+  subject: A white daisy flower
+- concept_token: coral
+  settings:
+  - growing in a vibrant reef
+  - home to tiny fish
+  - illuminated by sunlight underwater
+  - swaying gently with the currents
+  - surrounded by blue water
+  style: A detailed underwater painting of
+  subject: A colorful coral
+- concept_token: willow
+  settings:
+  - by a peaceful riverbank
+  - swaying in a summer breeze
+  - shading a grassy picnic spot
+  - with branches touching the water
+  - against a cloudy sky
+  style: A serene landscape painting of
+  subject: A weeping willow tree
+- concept_token: dragonfly
+  settings:
+  - hovering above a pond
+  - resting on a reed
+  - darting through tall grass
+  - shimmering in the morning light
+  - near a field of wildflowers
+  style: A vibrant sketch of
+  subject: A delicate dragonfly
+- concept_token: coconut tree
+  settings:
+  - on a white sandy beach
+  - swaying in a tropical breeze
+  - shading a beachside hut
+  - with coconuts hanging high
+  - against a turquoise sky
+  style: A tropical watercolor of
+  subject: A tall coconut tree
+- concept_token: moss
+  settings:
+  - covering a forest stone
+  - growing on an old tree trunk
+  - carpeting a woodland floor
+  - near a babbling brook
+  - glistening after a rainstorm
+  style: A detailed pencil drawing of
+  subject: A patch of soft green moss
+- concept_token: sunflower field
+  settings:
+  - stretching to the horizon
+  - under a bright summer sky
+  - swaying in the warm wind
+  - alive with buzzing bees
+  - glowing in the evening light
+  style: A grand oil painting of
+  subject: A vibrant sunflower field
+- concept_token: tide pool
+  settings:
+  - teeming with colorful sea life
+  - reflecting the sky above
+  - nestled in rocky shoreline
+  - surrounded by barnacles and shells
+  - touched by the rising tide
+  style: A realistic painting of
+  subject: A lively tide pool
+- concept_token: waterfall mist
+  settings:
+  - rising from a powerful cascade
+  - drifting through a dense forest
+  - catching sunlight in a rainbow
+  - cooling a rocky riverbank
+  - surrounding a hidden grotto
+  style: A soft pastel painting of
+  subject: Mist from a waterfall
+- concept_token: aurora
+  settings:
+  - dancing across a polar sky
+  - reflected on an icy lake
+  - illuminating a snowy landscape
+  - against a mountain backdrop
+  - over a quiet arctic village
+  style: A celestial oil painting of
+  subject: A shimmering aurora borealis
+- concept_token: hedgehog
+  settings:
+  - sniffing among fallen leaves
+  - curled up in the grass
+  - exploring a forest trail
+  - hiding in a hollow log
+  - beside a blooming flower
+  style: A charming watercolor of
+  subject: A tiny hedgehog
+- concept_token: oak leaf
+  settings:
+  - turning golden in autumn
+  - floating down a gentle stream
+  - crunching underfoot on a trail
+  - resting on a park bench
+  - caught in a spider's web
+  style: A detailed pencil drawing of
+  subject: A textured oak leaf
+- concept_token: stag
+  settings:
+  - standing proud on a hillside
+  - silhouetted against the dawn
+  - walking through a frosty meadow
+  - under a canopy of stars
+  - by a peaceful forest stream
+  style: A majestic watercolor of
+  subject: A noble stag
+- concept_token: seagull
+  settings:
+  - soaring above crashing waves
+  - perched on a rocky outcrop
+  - circling a fishing boat
+  - calling out over the sea
+  - walking along a sandy shore
+  style: A lively watercolor of
+  subject: A seagull in flight
+- concept_token: lavender
+  settings:
+  - blooming in a sunny field
+  - filling a garden with fragrance
+  - tied in bundles on a table
+  - swaying in a gentle breeze
+  - with bees buzzing around
+  style: A calming watercolor of
+  subject: A cluster of lavender flowers
+- concept_token: raven
+  settings:
+  - perched on a barren branch
+  - cawing in the early morning mist
+  - gliding over a misty valley
+  - standing on a rocky outcrop
+  - silhouetted against the moon
+  style: A mysterious oil painting of
+  subject: A jet-black raven
+- concept_token: oak
+  settings:
+  - tall in an autumn forest
+  - casting shadows at sunset
+  - blanketed in fresh snow
+  - in a field of wildflowers
+  - against rolling hills
+  - shading a peaceful clearing
+  - in a lush green woodland
+  style: A realist landscape painting of
+  subject: A mighty oak tree with spreading branches
+- concept_token: butterfly
+  settings:
+  - flitting among garden flowers
+  - resting on a green leaf
+  - against a clear blue sky
+  - hovering over a brook
+  - dancing in tall grass
+  - with a rainbow backdrop
+  - landing on a child's hand
+  style: A watercolor illustration of
+  subject: A vibrant butterfly with iridescent wings
+- concept_token: snow leopard
+  settings:
+  - prowling in snowy mountains
+  - camouflaged on rocks
+  - stalking prey in the snow
+  - lying on a snowy ledge
+  - with wind ruffling its fur
+  - in winter morning light
+  - with jagged peaks behind
+  style: A photorealistic painting of
+  subject: A snow leopard with piercing blue eyes
+- concept_token: waterfall
+  settings:
+  - in a tropical forest
+  - under a sunny rainbow
+  - surrounded by mist
+  - sunlight through canopy
+  - in a mountain valley
+  - falling into a clear pool
+  - in morning light
+  style: A romantic landscape painting of
+  subject: A majestic waterfall cascading down rocky cliffs
+- concept_token: peacock
+  settings:
+  - strutting in a garden
+  - displaying feathers fully
+  - walking a garden path
+  - perched on a wall
+  - amid blooming flowers
+  - under a vine pergola
+  - on an estate lawn
+  style: A detailed Art Nouveau illustration of
+  subject: A magnificent peacock with iridescent feathers
+- concept_token: hummingbird
+  settings:
+  - in a flower garden
+  - amidst honeysuckles
+  - under a clear sky
+  - near a backyard feeder
+  - in a rainforest clearing
+  - with lush foliage behind
+  - during golden hour
+  style: A dynamic nature photograph of
+  subject: A tiny hummingbird hovering near a flower
+- concept_token: maple leaf
+  settings:
+  - falling from a tree
+  - on a leaf-covered path
+  - in a forest glade
+  - glowing in autumn light
+  - lying on a mossy rock
+  - under a clear sky
+  - drifting on a pond
+  style: A traditional Japanese ink wash painting of
+  subject: A bright red maple leaf in autumn
+- concept_token: dolphin
+  settings:
+  - in a tropical sea
+  - under midday sun
+  - near coral reefs
+  - beside a sunset boat
+  - amidst playful dolphins
+  - in open ocean waves
+  - near a small island
+  style: A vibrant marine watercolor of
+  subject: A playful dolphin leaping from the water
+- concept_token: bamboo
+  settings:
+  - in a Japanese garden
+  - swaying in the breeze
+  - against misty mountains
+  - sunlight through leaves
+  - in a bamboo forest
+  - beside a koi pond
+  - in morning fog
+  style: A traditional Chinese ink painting of
+  subject: A cluster of tall, graceful bamboo stalks
+- concept_token: polar bear
+  settings:
+  - in a glowing sunset
+  - on frozen tundra edge
+  - with a cub nearby
+  - among floating icebergs
+  - under twilight skies
+  - by snow-capped mountains
+  - in an Arctic storm
+  style: A serene Arctic oil painting of
+  subject: A majestic polar bear on a sheet of ice
+- concept_token: coral
+  settings:
+  - under tropical waters
+  - with darting fish
+  - among marine flora
+  - on sandy sea floor
+  - sunlight through water
+  - near an underwater cave
+  - swaying with seaweed
+  style: A bright and lively underwater painting of
+  subject: A vibrant coral reef teeming with life
+technoledge:
+- concept_token: robotic dog
+  settings:
+  - delivering items in a city
+  - guiding visually impaired people
+  - assisting in search-and-rescue missions
+  - playing fetch in a park
+  - patrolling a secure facility
+  style: A futuristic urban illustration of
+  subject: A robotic dog with sleek metallic limbs
+- concept_token: robotic horse
+  settings:
+  - running in a racing competition
+  - assisting farmers in fieldwork
+  - carrying heavy loads in rugged terrain
+  - patrolling a large estate
+  - providing transportation in rural areas
+  style: A dynamic outdoor illustration of
+  subject: A robotic horse with metallic limbs
+- concept_token: robotic rabbit
+  settings:
+  - delivering flowers in a botanical garden
+  - entertaining children in a playroom
+  - exploring urban parks with its owner
+  - assisting farmers in crop monitoring
+  - navigating offices delivering documents
+  style: A charming nature illustration of
+  subject: A robotic rabbit with fluffy ears
+- concept_token: robotic wolf
+  settings:
+  - guarding the perimeter of a secure facility
+  - tracking wildlife in a forest
+  - assisting in mountain rescues
+  - participating in a futuristic military exercise
+  - leading a pack of robots in exploration
+  style: A mysterious wilderness illustration of
+  subject: A robotic wolf with glowing eyes
+- concept_token: robotic dog
+  settings:
+  - delivering items in a city
+  - guiding visually impaired people
+  - assisting in search-and-rescue missions
+  - playing fetch in a park
+  - patrolling a secure facility
+  style: A futuristic urban illustration of
+  subject: A robotic dog
+- concept_token: robotic cheetah
+  settings:
+  - running in a race
+  - assisting in wildlife conservation
+  - tracking criminals in a city
+  - patrolling a security perimeter
+  - helping athletes train for speed
+  style: A high-speed action illustration of
+  subject: A robotic cheetah
+- concept_token: delivery robot
+  settings:
+  - transporting packages in a city
+  - running errands in a busy street
+  - delivering groceries to homes
+  - navigating a warehouse for parcels
+  - moving goods in a market
+  style: A compact delivery illustration of
+  subject: A delivery robot
+- concept_token: robotic elephant
+  settings:
+  - carrying heavy materials in construction
+  - assisting with tree planting
+  - patrolling wildlife reserves
+  - providing rides for tourists
+  - transporting goods over rough terrain
+  style: A majestic nature illustration of
+  subject: A robotic elephant
+- concept_token: robotic wolf
+  settings:
+  - patrolling secure areas
+  - assisting in wilderness exploration
+  - tracking wildlife in forests
+  - guarding perimeters in urban zones
+  - leading a robotic pack
+  style: A sleek nature illustration of
+  subject: A robotic wolf
