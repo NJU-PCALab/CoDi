@@ -15,7 +15,6 @@
 
 </div>
 
-
 <p align="center">
   <a href="#model-architecture">Model Architecture</a> •
   <a href="#how-to-use">How To Use</a> •
@@ -72,7 +71,7 @@ We gratefully acknowledge the following repositories for providing useful compon
 
 ## Visualization
 
-### Qualitative Examples
+### Qualitative Results
   <figure style="display: inline-block; margin: 20px; text-align: center; max-width: 700px;">
     <img src="./teaser/qualtative_results.jpeg" alt="other_model" style="width: 100%;">
   </figure>
