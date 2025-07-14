@@ -5,8 +5,8 @@
 
 <div align="center">
 
-<a href="https://arxiv.org/abs/2501.13554" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/arXiv%20paper-2406.06525-b31b1b.svg" alt="arXiv" style="height: 20px; vertical-align: middle;">
+<a href="https://arxiv.org/pdf/2507.08396" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/arXiv%20paper-2507.08396-b31b1b.svg" alt="arXiv" style="height: 20px; vertical-align: middle;">
 </a>&nbsp;
 
 <!-- <a href="https://byliutao.github.io/1Prompt1Story.github.io/" style="display: inline-block;">
@@ -52,13 +52,11 @@ $ python gen_benchmark.py
 ## Citation
 If our work assists your research, feel free to give us a star ⭐ or cite us using:
 ```
-@inproceedings{
-liu2025onepromptonestory,
-title={One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt},
-author={Tao Liu and Kai Wang and Senmao Li and Joost van de Weijer and Fhad Khan and Shiqi Yang and Yaxing Wang and Jian Yang and Mingming Cheng},
-booktitle={The Thirteenth International Conference on Learning Representations},
-year={2025},
-url={https://openreview.net/forum?id=cD1kl2QKv1}
+@article{gao2025codi,
+  title={Subject-Consistent and Pose-Diverse Text-to-Image Generation},
+  author={Gao, Zhanxin and Zhu, Beier and Yao, Liang and Yang, Jian and Tai, Ying},
+  journal={arXiv preprint arXiv:2507.08396},
+  year={2025}
 }
 ```
 
