@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/arXiv%20paper-2507.08396-b31b1b.svg" alt="arXiv" style="height: 20px; vertical-align: middle;">
 </a>&nbsp;
 
-<!-- <a href="https://byliutao.github.io/1Prompt1Story.github.io/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Project_page-More_visualizations-green" alt="project page" style="height: 20px; vertical-align: middle;">
-</a>&nbsp; -->
+<a href="https://zhanxin-gao.github.io/CoDi/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Project_page-Link-green" alt="project page" style="height: 20px; vertical-align: middle;">
+</a>&nbsp;
 
 </div>
 
