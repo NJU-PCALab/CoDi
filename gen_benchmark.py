@@ -143,7 +143,6 @@ if __name__ == '__main__':
     parser.add_argument('--benchmark_path', type=str,default="./resource/consistory+.yaml")
     parser.add_argument('--transition_point', type=int, default=10, required=False)
     parser.add_argument('--alpha', type=float, default=0.5, required=False)
-    parser.add_argument('--number',default=0,type=int, required=False)
     parser.add_argument('--root_dir', default="./result",type=str, required=False)
     args = parser.parse_args()
     devices=args.devices
@@ -152,8 +151,6 @@ if __name__ == '__main__':
         print(f"{arg}: {value}")
     
     save_dir=os.path.join(args.root_dir,"benchmark")
-    dir_name=f"{args.number}_TransitionPoint{args.transition_point}_alpha{args.alpha}"
-    save_dir=os.path.join(save_dir,dir_name)
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)
     
