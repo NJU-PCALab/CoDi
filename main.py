@@ -87,7 +87,7 @@ if __name__ == '__main__':
     parser.add_argument('--subject', default="a flour-dusted miller in apron", type=str, required=False)
     parser.add_argument('--concept_token', default=["miller"],
                         type=str, nargs='*', required=False)
-    parser.add_argument('--settings', default=["maintaining grinding stones", "testing flour quality", "teaching grain varieties", "restoring waterwheel mechanisms","bagging fresh products"], 
+    parser.add_argument('--settings', default=["maintaining grinding stones", "testing flour quality", "teaching grain varieties", "stacking flour sacks","bagging fresh products"], 
                         type=str, nargs='*', required=False)
     parser.add_argument('--transition_point', type=int, default=10, required=False)
     parser.add_argument('--alpha', type=float, default=0.5, required=False)
