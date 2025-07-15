@@ -1,6 +1,6 @@
 name: codi
 channels:
-- conda-forge
+  - conda-forge
   - pytorch
   - nvidia
   - defaults
