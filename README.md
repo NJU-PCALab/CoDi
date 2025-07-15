@@ -13,6 +13,10 @@
     <img src="https://img.shields.io/badge/Project_page-Link-green" alt="project page" style="height: 20px; vertical-align: middle;">
 </a>&nbsp;
 
+<a href="https://www.youtube.com/watch?v=sSzHHK4q1Dc" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Video-Presentation-blue" alt="project page" style="height: 20px; vertical-align: middle;">
+</a>&nbsp;
+
 </div>
 
 <p align="center">
