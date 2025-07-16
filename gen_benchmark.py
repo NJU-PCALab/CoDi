@@ -56,7 +56,7 @@ def CoDi_generation(args,story_pipeline, prompts, concept_token,
     
     for resolution in sim_matrix.keys():
         M_id=subject_masks[resolution][0]
-        thresholded = [tensor * (tensor > 0).float() for tensor in OT_plan[resolution]]
+        thresholded = [torch.mul(f, s) for f, s in zip(OT_plan[resolution], sim_matrix[resolution])]
         
         summed = [t.sum(dim=0, keepdim=True) for t in thresholded]
         stacked = torch.cat(summed, dim=0)
