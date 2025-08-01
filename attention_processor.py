@@ -77,7 +77,12 @@ class CoDiAttnStoreProcessor:
             resolution=int(hidden_states.shape[1]**0.5)
             bs=subject_masks[resolution].shape[0]
             for i in range(1,bs):
-                hidden_states[bs+i:bs+i+1,subject_masks[resolution][i]] = torch.einsum("cm,bmd->bcd", OT_plan[resolution][i-1], hidden_states[bs:bs+1,subject_masks[resolution][0]])
+                ori_fea=hidden_states[bs+i:bs+i+1,subject_masks[resolution][i]]
+                ori_norm=torch.norm(ori_fea,dim=2,p=2,keepdim=True)
+                construction=torch.einsum("cm,bmd->bcd", OT_plan[resolution][i-1], hidden_states[bs:bs+1,subject_masks[resolution][0]])
+                construction_norm=torch.norm(construction,dim=2,p=2,keepdim=True)
+                construction_normAlign=construction*ori_norm/construction_norm
+                hidden_states[bs+i:bs+i+1,subject_masks[resolution][i]]=construction_normAlign
 
         return hidden_states
 
@@ -213,7 +218,12 @@ class CoDiExtendedAttnXFormersAttnProcessor:
             resolution=int(hidden_states.shape[1]**0.5)
             bs=subject_masks[resolution].shape[0]
             for i in range(1,bs):
-                hidden_states[bs+i:bs+i+1,subject_masks[resolution][i]] = torch.einsum("cm,bmd->bcd", OT_plan[resolution][i-1], hidden_states[bs:bs+1,subject_masks[resolution][0]])
+                ori_fea=hidden_states[bs+i:bs+i+1,subject_masks[resolution][i]]
+                ori_norm=torch.norm(ori_fea,dim=2,p=2,keepdim=True)
+                construction=torch.einsum("cm,bmd->bcd", OT_plan[resolution][i-1], hidden_states[bs:bs+1,subject_masks[resolution][0]])
+                construction_norm=torch.norm(construction,dim=2,p=2,keepdim=True)
+                construction_normAlign=construction*ori_norm/construction_norm
+                hidden_states[bs+i:bs+i+1,subject_masks[resolution][i]]=construction_normAlign
                 
         if attn.residual_connection:
             hidden_states = hidden_states + residual

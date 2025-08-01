@@ -83,11 +83,13 @@ if __name__ == '__main__':
     parser.add_argument('--gpu', default=0, type=int, required=False)
     parser.add_argument('--seed', default=40, type=int, required=False)
     parser.add_argument('--same_latent', default=False, type=bool, required=False, help="different latent to ensure different pose")
-    parser.add_argument('--style', default="A pastoral countryside painting of ", type=str, required=False)
-    parser.add_argument('--subject', default="a flour-dusted miller in apron", type=str, required=False)
-    parser.add_argument('--concept_token', default=["miller"],
+    parser.add_argument('--style', default="A 3D animation of", type=str, required=False)
+    parser.add_argument('--subject', default="A happy hedgehog", type=str, required=False)
+    parser.add_argument('--concept_token', default=["hedgehog"],
                         type=str, nargs='*', required=False)
-    parser.add_argument('--settings', default=["maintaining grinding stones", "testing flour quality", "teaching grain varieties", "stacking flour sacks","bagging fresh products"], 
+    parser.add_argument('--settings', default=["in a cozy nest","dressed in a miniature jacket",
+                                               "wearing a small collar", "dressed in a festive outfit",
+                                               "wearing a flower crown"], 
                         type=str, nargs='*', required=False)
     parser.add_argument('--transition_point', type=int, default=10, required=False)
     parser.add_argument('--alpha', type=float, default=0.5, required=False)
